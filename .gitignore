@@ -1,0 +1,77 @@
+# ── Secrets & Environment ──────────────────────────────────
+.env
+.env.*
+!.env.example
+
+# ── Python Bytecode ────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ── Virtual Environments ───────────────────────────────────
+venv/
+.venv/
+env/
+.env/
+ENV/
+
+# ── Package / Build Artifacts ──────────────────────────────
+*.egg-info/
+*.egg
+dist/
+build/
+wheels/
+sdist/
+MANIFEST
+
+# ── Test & Coverage ────────────────────────────────────────
+.pytest_cache/
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+*.lcov
+
+# ── Type Checkers & Linters ────────────────────────────────
+.mypy_cache/
+.ruff_cache/
+.pytype/
+pyrightconfig.json
+
+# ── Database & Storage ─────────────────────────────────────
+*.db
+*.sqlite3
+*.sqlite
+
+# ── Logs ───────────────────────────────────────────────────
+*.log
+logs/
+
+# ── UV (package manager) ───────────────────────────────────
+.uv/
+uv.lock
+
+# ── OS Files ───────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDE & Editors ──────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ── Docker ─────────────────────────────────────────────────
+*.env.docker
+
+# ── Jupyter ────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── Uploads / Static (if generated at runtime) ─────────────
+uploads/
+staticfiles/
+media/
