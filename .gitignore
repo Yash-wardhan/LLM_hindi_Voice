@@ -71,6 +71,16 @@ desktop.ini
 .ipynb_checkpoints/
 *.ipynb
 
+# ── Audio Files (generated at runtime) ────────────────────
+*.mp3
+*.wav
+*.ogg
+*.flac
+*.m4a
+*.webm
+*.aac
+*.opus
+
 # ── Uploads / Static (if generated at runtime) ─────────────
 uploads/
 staticfiles/

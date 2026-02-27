@@ -3,13 +3,15 @@ from contextlib import asynccontextmanager
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
-from app.api.v1.routers import health, example
+from app.api.v1.routers import auth, health, example, voice, sessions
 from app.core.config import settings
+from app.core.database import create_all_tables
 
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    # Startup
+    # Startup — create DB tables (idempotent)
+    await create_all_tables()
     print(f"Starting {settings.APP_NAME} v{settings.APP_VERSION}")
     yield
     # Shutdown
@@ -36,15 +38,33 @@ def create_application() -> FastAPI:
         allow_headers=["*"],
     )
 
+    prefix = f"/api/{settings.API_VERSION}"
+
     # --- Routers ---
     application.include_router(health.router, tags=["Health"])
     application.include_router(
+        auth.router,
+        prefix=f"{prefix}/auth",
+        tags=["Auth"],
+    )
+    application.include_router(
         example.router,
-        prefix=f"/api/{settings.API_VERSION}",
+        prefix=prefix,
         tags=["Example"],
+    )
+    application.include_router(
+        voice.router,
+        prefix=f"{prefix}/voice",
+        tags=["Voice AI"],
+    )
+    application.include_router(
+        sessions.router,
+        prefix=f"{prefix}/sessions",
+        tags=["Sessions"],
     )
 
     return application
 
 
 app = create_application()
+
