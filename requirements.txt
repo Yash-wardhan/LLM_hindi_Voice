@@ -1,5 +1,24 @@
+# ── Web Framework ─────────────────────────────────────────
 fastapi>=0.110.0
 uvicorn[standard]>=0.29.0
+python-multipart>=0.0.9      # required for UploadFile / Form
+
+# ── Data Validation ────────────────────────────────────────
 pydantic>=2.6.0
 pydantic-settings>=2.2.0
 python-dotenv>=1.0.0
+
+# ── AI / OpenAI ────────────────────────────────────────────
+openai>=1.14.0               # Whisper STT + GPT LLM + TTS
+
+# ── Async Utilities ────────────────────────────────────────
+aiofiles>=23.2.1             # async file I/O (optional, for saving audio)
+
+# ── Database ───────────────────────────────────────────────
+sqlalchemy[asyncio]>=2.0.0   # ORM + async support
+aiosqlite>=0.19.0            # async SQLite driver
+
+# ── Auth ───────────────────────────────────────────────────
+passlib[bcrypt]>=1.7.4       # password hashing
+python-jose[cryptography]>=3.3.0  # JWT encode / decode
+email-validator>=2.0.0       # required for pydantic EmailStr
