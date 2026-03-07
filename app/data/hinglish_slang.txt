@@ -1,0 +1,182 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# Hinglish Slang Collection
+# Format:  slang / variant = meaning | usage context
+# Lines starting with # are comments and are ignored by the loader.
+# ─────────────────────────────────────────────────────────────────────────────
+
+
+## ── GREETINGS & FAREWELLS ──────────────────────────────────────────────────
+yaar / bhai / dost / buddy          = friend | address term for close person
+kya baat hai / kya scene hai        = what's up / what's happening
+kya chal raha / kya ho raha         = what's going on
+hello bhai / hi yaar                = casual hello
+bye bhai / chalte hain / chalo      = goodbye / let's go
+phir milenge / phir baat karte hain = see you again / talk later
+subah ki shuruwaat / good morning yaar = good morning (casual)
+raat ko milte hain = see you at night / good night (casual)
+
+
+## ── AGREEMENT & CONFIRMATION ──────────────────────────────────────────────
+haan / haan bhai / bilkul           = yes / absolutely
+ekdum sahi / ekdum theek            = exactly right / spot on
+sahi hai / sahi bola / bolta sahi hai = that's correct
+thik hai / theek hai / okay boss    = okay / alright
+agreed yaar / deal hai              = agreed / it's a deal
+pakka / pakki baat                  = for sure / it's confirmed
+confirmed hai / done deal           = confirmed / done
+zaroor / zaroor bhai                = certainly / of course
+
+
+## ── DISAGREEMENT & REFUSAL ────────────────────────────────────────────────
+nahi bhai / bilkul nahi             = no / absolutely not
+abhi nahi / baad mein               = not right now / later
+mujhe nahi pata / pata nahi yaar    = I don't know
+nahi chahiye / rehne do             = don't want it / leave it
+not done yaar / galat baat hai      = that's not cool / that's wrong
+bakwaas mat karo                    = stop talking nonsense
+chup karo / band karo               = shut up / stop it (informal)
+
+
+## ── EMOTIONS — HAPPINESS & EXCITEMENT ────────────────────────────────────
+mast hai / bahut mast               = awesome / super great
+bindaas / bindaas hai               = carefree / cool / no worries
+ek number / ekdum mast              = top-notch / absolutely great
+kya baat hai! / wah wah             = wow! / amazing!
+dhamaal / dhamakedar                = blast / super exciting
+bahut acha / bahut achha            = very good
+mazaa aa gaya / mazaa aa raha hai   = having a great time
+khushi ho gayi / khush hoon         = so happy / I'm happy
+solid / solid hai                   = solid / impressive
+lit hai / fire hai                  = it's lit / it's fire (trending)
+zabardast / lajawab                 = outstanding / incredible
+
+
+## ── EMOTIONS — SADNESS & FRUSTRATION ─────────────────────────────────────
+bahut bura laga / kharaab feel hua  = felt very bad
+dil dukha / dil bhaari hai          = heart is heavy / feeling sad
+bas kar yaar / thak gaya hoon       = stop it / I'm tired
+uff yaar / haaye                    = ugh / oh no (mild frustration)
+tension mat le                      = don't stress / chill out
+chhod yaar / choddo isko            = forget it / leave it
+pagal kar diya / dimaag kharaab kiya = you're driving me crazy
+rona aa raha hai / rona aa gaya     = feel like crying / started crying
+bore ho gaya / bore ho rahi hoon    = I'm bored
+
+
+## ── EMOTIONS — ANGER & IRRITATION ────────────────────────────────────────
+kya bakwaas hai / kya faltu baat    = what nonsense
+gussa mat ho / gussa nahi karo      = don't be angry
+bahut zyada ho gaya / limit cross ho gayi = gone too far / crossed the limit
+bura mat maano                      = don't take it badly
+dimaag mat khao / dimag mat khao    = don't mess with my head
+yaar kya problem hai / chakkar kya hai = what's the problem / what's going on
+khoon khaula / khoon khaul gaya     = blood is boiling / furious
+
+
+## ── SURPRISE & DISBELIEF ──────────────────────────────────────────────────
+kya! / are kya! / are bhai!         = what! / oh wow! / no way!
+sach mein / seriously               = really / seriously
+jhooth mat bolo / pakka sach        = don't lie / is it really true
+yaar serious hai / haan real mein   = seriously? / yes for real
+shock lag gaya / hairan hoon        = I'm shocked / I'm astonished
+believe nahi ho raha / yakeen nahi  = can't believe it
+
+
+## ── CONFUSION & CURIOSITY ─────────────────────────────────────────────────
+samajh nahi aaya / clear nahi       = didn't understand / not clear
+phir se bolo / dobara samjhao       = say again / explain again
+matlab kya / iska matlab kya hai    = what does it mean
+pareshaan hoon / confused hoon      = I'm confused
+kya scene hai / kya chakkar hai     = what's the situation / what's going on
+thoda explain karo / aur bolo       = explain a bit / tell me more
+poori baat batao                    = tell the whole thing
+
+
+## ── SLANG FOR COOL / UNCOOL ───────────────────────────────────────────────
+swaggy / swag hai                   = stylish / has swagger
+tharki / desperate                  = desperate / creepy (informal)
+beizzati / insult ho gayi           = got humiliated / embarrassed
+chamcha / chamchagiri               = sycophant / brown-noser
+dost nahi hai ye / fake dost        = not a real friend / fake friend
+cool banda / cool ladki             = cool guy / cool girl
+attitude mat dikhao                 = don't show attitude
+show-off mat karo                   = stop showing off
+
+
+## ── REQUESTS & COMMANDS ───────────────────────────────────────────────────
+help karo / madad karo              = help me
+batao / bataiye                     = tell me
+dikhao / dikhaiye                   = show me
+sun / suno / sun bhai               = listen / hey listen
+dekho / dekh bhai                   = look / look here
+jaldi karo / jaldi                  = hurry up / quickly
+dheere karo / slow karo             = slow down
+ruko / ek minute                    = wait / one minute
+baith jao / uth jao                 = sit down / get up
+karo please / please karo           = please do it
+
+
+## ── EVERYDAY LIFE VOCABULARY ──────────────────────────────────────────────
+khaana / khana                      = food / meal
+paani / pani                        = water
+chai / chai piyo                    = tea / drink tea
+sona / so ja                        = sleep / go to sleep
+uthna / uth ja / uth yaar           = wake up
+ghar / ghar pe hoon                 = home / I'm at home
+school / college / office           = school / college / office (same usage)
+kaam / kaam karna                   = work / to work
+shopping karte hain                 = let's go shopping
+timepass karna                      = to kill time / to hang out casually
+
+
+## ── TIME & SCHEDULING ─────────────────────────────────────────────────────
+kal karenge / kal karte hain        = will do tomorrow
+abhi / abhi karo                    = right now / do it now
+thodi der mein / baad mein          = in a little while / later
+aaj / aaj ka plan kya hai           = today / what's today's plan
+pehle / pehle bata                  = first / tell me first
+jab time ho / free hoon tab         = when free / when I have time
+der ho gayi / late ho gaya          = got late / running late
+
+
+## ── INTERNET / MODERN SLANG ───────────────────────────────────────────────
+lol / lmao / haha yaar              = laughing / that's funny
+brb / bas aaya / 2 min              = be right back / just coming
+omg / are yaar                      = oh my god / oh no
+vibe / vibes sahi hain              = vibe / good vibes
+lit / fire / ekdum bhaad            = amazing / on fire
+chill karo / chill yaar             = relax / chill out
+fomo lag raha                       = feeling FOMO (fear of missing out)
+cringe hai / cringe tha             = that was cringe
+ghosting kar diya / ghosting        = ghosted someone
+flex mat karo / flex kar raha       = stop flexing / showing off
+troll kar diya / troll ho gaya      = got trolled
+viral ho gaya                       = went viral
+roast kar diya                      = got roasted
+savage hai / savagely               = that's savage
+sus lag raha / sus hai              = looks suspicious (Among Us ref)
+no cap / sach bata raha hoon        = no cap / I'm telling the truth
+lowkey / lowkey acha laga           = lowkey liked it / secretly
+
+
+## ── AFFIRMATIONS & FILLER WORDS ───────────────────────────────────────────
+matlab / matlab ye hai ki           = means / what I mean is
+basically / basically kya hua       = basically / basically what happened
+waise / waise bhi                   = anyway / by the way
+aur kya / aur kya bata              = and what else / tell me more
+haan to / haan so                   = yes so / so then
+dekh / dekh bhai                    = look / look here
+sun na / sun na yaar                = hey listen / listen please
+actually / actually kya hua         = actually / actually what happened
+sach bolunga to                     = to be honest / honestly
+seedha baat karo                    = get straight to the point
+
+
+## ── NUMBERS & QUANTITIES ──────────────────────────────────────────────────
+thoda / thoda sa                    = a little / a bit
+bahut / bahut zyada                 = a lot / too much
+kam / kam hai                       = less / not enough
+pura / pura karo                    = full / complete it
+aadha / aadha adha                  = half
+ek baar / ek aur baar               = once / one more time
+dobara / phir se                    = again / once more

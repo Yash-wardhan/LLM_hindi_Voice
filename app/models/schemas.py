@@ -15,13 +15,6 @@ class HealthResponse(BaseModel):
 
 # ── Item (example resource) ──────────────────────────────────────────────────
 
-class ItemBase(BaseModel):
-    name: str = Field(..., min_length=1, max_length=100, examples=["My item"])
-    description: Optional[str] = Field(None, max_length=500)
-
-
-class ItemCreate(ItemBase):
-    pass
 
 
 class ItemUpdate(BaseModel):
@@ -29,10 +22,6 @@ class ItemUpdate(BaseModel):
     description: Optional[str] = Field(None, max_length=500)
 
 
-class ItemResponse(ItemBase):
-    id: int
-
-    model_config = {"from_attributes": True}
 
 
 # ── Voice / Conversation ─────────────────────────────────────────────────────
@@ -47,6 +36,7 @@ class VoiceChatResponse(BaseModel):
     transcript: str = Field(..., description="What the user said (STT output)")
     intent: str = Field(..., description="Detected intent category")
     language_detected: str = Field(..., description="Detected language code: en | hi | hinglish")
+    emotion: str = Field(default="neutral", description="Detected emotional tone (e.g. happy, sad, excited)")
     reply_text: str = Field(..., description="AI generated reply (text)")
     reply_audio_b64: str = Field(..., description="Base64-encoded MP3 audio of the reply")
     reply_audio_format: str = Field(default="mp3")
@@ -62,6 +52,7 @@ class TextChatResponse(BaseModel):
     session_id: str
     intent: str
     language_detected: str
+    emotion: str = Field(default="neutral", description="Detected emotional tone (e.g. happy, sad, excited)")
     reply_text: str
     reply_audio_b64: Optional[str] = None
     reply_audio_format: Optional[str] = None
@@ -130,5 +121,7 @@ class LLMResult(BaseModel):
     """Internal model returned by the LLM service."""
     intent: str
     language: str
+    emotion: str = "neutral"
     reply: str
+    
 
