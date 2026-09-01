@@ -71,7 +71,7 @@ AI-Voice-Assi/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/<your-username>/AI-Voice-Assi.git
+git clone https://github.com/Yash-wardhan/AI-Voice-Assi.git
 cd AI-Voice-Assi
 
 # 2. Create and activate a virtual environment
